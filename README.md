@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prakash Karki
 
 <!-- ANIMATED HEADER EFFECT -->
-![Typing SVG](https://demolab.com)
+![Typing Animation](https://demolab.com)
 
 ### `Cybersecurity` · `Network Security` · `IT`
 
