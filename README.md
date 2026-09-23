@@ -1,5 +1,6 @@
-# 👋 Hi, I'm Prakash Karki
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Network+Security;Linux+%7C+Splunk+%7C+SIEM;IT+Professional+%7C+Security+Enthusiast" />
+</p>
 ### `Cybersecurity` · `Network Security` · `IT`
 
 🎓 **Master of IT — Network Security**
