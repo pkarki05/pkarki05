@@ -2,10 +2,8 @@
 
 ### IT Professional | Cybersecurity | Network Security
 
-🎓 **Master of IT – Network Security** | Charles Sturt University, Australia
-🔐 Transitioning into **Cybersecurity & IT Security**
-💻 Building hands-on projects in **Linux, Splunk, Virtualization & Security**
-📚 Preparing for **CompTIA Security+**
+I'm an IT professional with a Master of Information Technology, specialising in Network Security, from Charles Sturt University, Australia.
+I am currently transitioning into Cybersecurity, building practical skills through hands-on labs, projects, and continuous learning.
 
 ---
 
