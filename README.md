@@ -1,34 +1,33 @@
 # Hi, I'm Prakash 👋
 
-### Cybersecurity | IT | Network Security | Frontend Development
+### IT Professional | Cybersecurity | Network Security
 
-I'm an IT professional with a **Master of Information Technology**, specialising in **Network Security**, from Charles Sturt University, Australia.
+🎓 **Master of IT – Network Security** | Charles Sturt University, Australia
+🔐 Transitioning into **Cybersecurity & IT Security**
+💻 Building hands-on projects in **Linux, Splunk, Virtualization & Security**
+📚 Preparing for **CompTIA Security+**
 
-I am currently transitioning into **Cybersecurity**, building practical skills through hands-on labs, projects, and continuous learning.
+---
 
-## 🔐 Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* 🐧 Linux & system administration
-* 🛡️ Cybersecurity fundamentals
-* 📊 SIEM & Splunk
-* 💻 Virtualization
-* 🌐 Networking & network security
-* 🔎 Security monitoring & incident response
-* 📚 Preparing for **CompTIA Security+**
+### 🛡️ Cybersecurity
 
-## 🧑‍💻 Technical Skills
-
-### Cybersecurity & IT
-
-* Network Security
 * Linux
-* Splunk
-* Virtualization
+* Splunk / SIEM
+* Network Security
 * Security Monitoring
-* Incident Response Fundamentals
-* Networking
+* Incident Response
+* Virtualization
+* Cybersecurity Labs
+* Security+ Preparation
 
-### Web Development
+</td>
+<td width="50%" valign="top">
+
+### 💻 Development
 
 * HTML5
 * CSS3
@@ -37,97 +36,32 @@ I am currently transitioning into **Cybersecurity**, building practical skills t
 * Angular
 * Bootstrap
 * Tailwind CSS
+* Git & GitHub
 
-### Tools & Platforms
+</td>
+</tr>
+</table>
 
-* Git
-* GitHub
-* Linux
-* Virtual Machines
-* Splunk
+---
 
-## 🚀 Projects
+### 🚀 Featured Projects
 
-### 🔐 Cybersecurity Projects
+🔐 **Cybersecurity Labs** — Linux • Splunk • SIEM • Network Security • Incident Response
 
-Hands-on projects focused on:
+🌐 **Frontend Projects** — HTML • CSS • JavaScript • React • Angular
 
-* Security monitoring
-* Log analysis
-* Incident investigation
-* Linux security
-* SIEM/Splunk
-* Network security
-* Cybersecurity labs
+📂 **My Projects:** [Explore my repositories](https://github.com/)
 
-👉 **[View my cybersecurity projects](https://github.com/)**
+---
 
-### 🌐 Frontend Development Projects
+### 🎯 Career Focus
 
-I have developed multiple frontend projects using:
+**Cybersecurity Analyst • SOC Analyst • IT Support • Network Security • Junior Security Roles**
 
-* HTML
-* CSS
-* JavaScript
-* React
-* Angular
-* Bootstrap
-* Tailwind CSS
-
-👉 **[View my frontend projects](https://github.com/)**
-
-## 🎓 Education
-
-**Master of Information Technology – Network Security**
-Charles Sturt University, Australia
-2019
-
-## 🎯 Career Goal
-
-I am currently transitioning from a non-IT role into the **IT & Cybersecurity industry**.
-
-My goal is to start in an entry-level role such as:
-
-* Cybersecurity Analyst
-* SOC Analyst
-* Security Operations Analyst
-* IT Support / Service Desk
-* Junior Security Analyst
-* Network / Security Support
-
-I am particularly interested in developing practical experience in **security monitoring, incident response, networking, Linux and SIEM technologies**.
-
-## 📚 Currently Learning
-
-```text
-Linux
-   ↓
-Networking & Security Fundamentals
-   ↓
-Virtualization
-   ↓
-Splunk / SIEM
-   ↓
-Security Monitoring
-   ↓
-Incident Response
-   ↓
-CompTIA Security+
-```
-
-## 📈 My Approach
-
-I believe cybersecurity is best learned by **building, breaking, investigating and documenting**.
-
-My GitHub is where I document my learning journey, practical labs, projects and technical experiments.
+> Building practical cybersecurity skills through hands-on labs, projects and continuous learning.
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm interested in connecting with cybersecurity professionals, IT professionals, recruiters and others working in the security community.
-
-**Open to:**
-Cybersecurity | SOC | IT Support | Network Security | Junior Security Roles
-
-⭐ Thanks for visiting my profile!
+Open to connecting with **Cybersecurity Professionals, IT Professionals & Recruiters**.
