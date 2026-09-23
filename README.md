@@ -1,30 +1,50 @@
 # 👋 Hi, I'm Prakash Karki
 
+<!-- ANIMATED HEADER EFFECT -->
+![Typing SVG](https://demolab.com)
+
 ### `Cybersecurity` · `Network Security` · `IT`
 
 🎓 **Master of IT — Network Security**
 🇦🇺 Australia · **Charles Sturt University**
 
-Currently transitioning into **Cybersecurity**, with a focus on practical security labs, Linux, SIEM and network security.
+Currently transitioning into **Cybersecurity**, with a focus on practical security labs, Linux, SIEM, and network security.
 
 ---
 
-## 🛡️ Cybersecurity
+## 🛡️ Cybersecurity Ecosystem
 
-| 🐧 Linux              | 📊 Splunk / SIEM    | 🌐 Networking    |
-| --------------------- | ------------------- | ---------------- |
-| System Administration | Log Analysis        | Network Security |
-| Security Labs         | Security Monitoring | Troubleshooting  |
+| 🐧 Linux | 📊 Splunk / SIEM | 🌐 Networking |
+| :--- | :--- | :--- |
+| ![Linux](https://shields.io) **System Admin** | ![Splunk](https://shields.io) **Log Analysis** |  **Network Security** |
+| Security Labs | Security Monitoring | Troubleshooting |
 
 | 🔐 Incident Response | 💻 Virtualization | 📚 Security+ |
-| -------------------- | ----------------- | ------------ |
-| Investigation        | Virtual Labs      | Preparing    |
+| :--- | :--- | :--- |
+| Investigation | ![VirtualBox](https://shields.io) **Virtual Labs** | **Preparing for Exam** |
 
 ---
 
 ## 💻 Development Background
 
-`HTML5` `CSS3` `JavaScript` `React` `Angular` `Bootstrap` `Tailwind CSS` `Git` `GitHub`
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![Angular](https://shields.io) ![TailwindCSS](https://shields.io) ![Bootstrap](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+
+---
+
+## 📈 Live GitHub Metrics
+
+<p align="left">
+  <!-- Core Dev Stats Card -->
+  <img src="https://vercel.app" alt="Prakash's GitHub Stats" width="48%" />
+  
+  <!-- Language Breakdown Card -->
+  <img src="https://vercel.app" alt="Prakash's Top Languages" width="48%" />
+</p>
+
+<p align="left">
+  <!-- Dynamic Activity Wave Tracker -->
+  <img src="https://herokuapp.com" alt="Prakash's Commit Streak" width="97%" />
+</p>
 
 ---
 
@@ -36,7 +56,7 @@ Linux · Splunk · SIEM · Network Security · Incident Response
 🌐 **Frontend Projects**
 JavaScript · React · Angular · Responsive Web Development
 
-📂 **Explore my work →** [GitHub Repositories](https://github.com/)
+📂 **Explore my work →** [GitHub Repositories](https://github.com)
 
 ---
 
