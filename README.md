@@ -1,11 +1,17 @@
 
- ## 👋 Hi, I'm Prakash Karki
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Network+Security;Linux+%7C+Splunk+%7C+SIEM;IT+Professional+%7C+Security+Enthusiast" />
-</p>
-🎓Master of IT — Network Security
-🇦🇺 Australia · Charles Sturt University
+<h1 align="center">
+  👋 Hi, I'm <font color="#00D9FF">Prakash Karki</font>
+</h1>
 
+<h3 align="center">
+  <font color="#7C3AED">Cybersecurity</font> ·
+  <font color="#00D9FF">Network Security</font> ·
+  <font color="#00FF9C">IT</font>
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Cybersecurity+%7C+Network+Security;Linux+%7C+Splunk+%7C+SIEM;Building+%7C+Learning+%7C+Documenting" />
+</p>
 Currently transitioning into **Cybersecurity**, with a focus on practical security labs, Linux, SIEM and network security.
 
 ---
