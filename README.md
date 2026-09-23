@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Cybersecurity+%7C+Network+Security;Linux+%7C+Splunk+%7C+SIEM;IT+Professional+%7C+Security+Enthusiast" />
 </p>
-🎓 **Master of IT — Network Security**
-🇦🇺 Australia · **Charles Sturt University**
+🎓 Master of IT — Network Security
+🇦🇺 Australia · **Charles Sturt University
 
 Currently transitioning into **Cybersecurity**, with a focus on practical security labs, Linux, SIEM and network security.
 
