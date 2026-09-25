@@ -190,7 +190,7 @@ monitoring and security investigations.
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pkarki05">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF9C?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -215,7 +215,7 @@ security exercises.
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pkarki05">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -236,7 +236,7 @@ web development projects.
 </p>
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pkarki05">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -254,8 +254,8 @@ web development projects.
 <h2 align="center">📈 GITHUB ACTIVITY</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00FF9C&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pkarki05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00FF9C&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pkarki05&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=FFFFFF" height="170"/>
 </p>
 
 ---
@@ -265,7 +265,7 @@ web development projects.
 <h2 align="center">🐍 CONTRIBUTIONS</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/pkarki05/pkarki05/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -293,7 +293,7 @@ and documenting the journey into cybersecurity.
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/pkarki05">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF">
 </a>
 
